@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/mateijordache/Documents/electronics projects/bowden-toolhead/bowden-toolhead.kicad_sch</source>
+    <date>Sunday, November 13, 2022 at 07:23:20 PM</date>
+    <tool>Eeschema (6.0.8-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Bowden Board Analog</title>
+        <company>matei repair lab</company>
+        <rev>0.1</rev>
+        <date>2022-11-11</date>
+        <source>bowden-toolhead.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/">
+      <title_block>
+        <title>Bowden Board Digital</title>
+        <company>matei repair lab</company>
+        <rev>0.1</rev>
+        <date>2022-11-11</date>
+        <source>bowden_toolhead_digital.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C101">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>486e915b-5ae1-42f7-9971-c494dc3dcf51</tstamps>
+    </comp>
+    <comp ref="C102">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e44f0bcc-0ac5-4d33-ac39-e8c1d124afc7</tstamps>
+    </comp>
+    <comp ref="C103">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7be46aa4-a9aa-45d5-8877-0eeb01fe4b62</tstamps>
+    </comp>
+    <comp ref="C104">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5a39369-0c20-4d74-8625-0091c601b967</tstamps>
+    </comp>
+    <comp ref="C105">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c34c1457-b95d-48aa-8227-8dc708d615c8</tstamps>
+    </comp>
+    <comp ref="C106">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b75d27a6-23b0-4c48-b1cc-37a460fa8322</tstamps>
+    </comp>
+    <comp ref="C107">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>871dbc96-c974-467a-9e20-1159d75d827e</tstamps>
+    </comp>
+    <comp ref="C108">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa584697-742d-450c-8534-e427fe602155</tstamps>
+    </comp>
+    <comp ref="C109">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92939b1b-d19a-48e1-ae13-b044df7472de</tstamps>
+    </comp>
+    <comp ref="C110">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6897f06f-d440-4e26-aeb5-51b207046b6d</tstamps>
+    </comp>
+    <comp ref="C111">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>042954a7-8808-4993-8c2f-3f42467a3f28</tstamps>
+    </comp>
+    <comp ref="C112">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f890f205-b744-4a93-934d-9283ace2d94a</tstamps>
+    </comp>
+    <comp ref="C113">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>580f437d-8e6e-4aa3-bded-1d4d69af7b60</tstamps>
+    </comp>
+    <comp ref="C114">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d834ca8b-b4f4-4a5d-a4bd-f6d05a01754b</tstamps>
+    </comp>
+    <comp ref="C115">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df9fc822-5709-497a-95b0-67d1a655fa88</tstamps>
+    </comp>
+    <comp ref="C116">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>023a406b-b693-4902-b160-aa598f8db976</tstamps>
+    </comp>
+    <comp ref="C117">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0211c2d5-3d08-4ade-b863-475abdeda12e</tstamps>
+    </comp>
+    <comp ref="C118">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e006758a-3d77-4821-9ca8-3372bc6eb559</tstamps>
+    </comp>
+    <comp ref="C119">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fad396dc-7eb9-41b6-8a91-483c6c46a090</tstamps>
+    </comp>
+    <comp ref="C120">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f9a5fd3-ece2-41b5-81cf-7fa55ce66e31</tstamps>
+    </comp>
+    <comp ref="C121">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>336cbb0a-7e43-4c2f-a1d2-4c64820b4a74</tstamps>
+    </comp>
+    <comp ref="C122">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2832b164-de11-4864-be10-0e3ca319e5af</tstamps>
+    </comp>
+    <comp ref="D101">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4107e45-70cc-4690-926a-aad99a425100</tstamps>
+    </comp>
+    <comp ref="D102">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39671fed-c641-468b-9d71-aba091ba9064</tstamps>
+    </comp>
+    <comp ref="D103">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c278e611-54d9-45ff-8fc1-fb11e796a92f</tstamps>
+    </comp>
+    <comp ref="D104">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a5f5fee-00e4-4326-810a-731500b1e41d</tstamps>
+    </comp>
+    <comp ref="D105">
+      <value>BAV99</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
+      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4729d76-7c5a-4e57-a814-bbf05df606e5</tstamps>
+    </comp>
+    <comp ref="D106">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8c65a92-67ce-44da-b5a4-ad58aad03291</tstamps>
+    </comp>
+    <comp ref="D107">
+      <value>3V3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a80ee1d9-5cef-44cd-b173-a8917ce6d2ce</tstamps>
+    </comp>
+    <comp ref="H101">
+      <value>PCB</value>
+      <footprint>matei:v0-carriage-board</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdf7623d-7629-4464-b930-3ba1bef1ae81</tstamps>
+    </comp>
+    <comp ref="J101">
+      <value>918-418K2022Y40004</value>
+      <footprint>matei:918-418K2022Y40004</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0a6ebf3-eeae-433d-9c09-8b13d201428e</tstamps>
+    </comp>
+    <comp ref="J102">
+      <value>POWER</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efb7ecbd-42f8-417e-b8da-50720e4e64e7</tstamps>
+    </comp>
+    <comp ref="J103">
+      <value>PARTFAN_A</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ddbf6d0-3526-466c-838e-50cbba2cfac4</tstamps>
+    </comp>
+    <comp ref="J104">
+      <value>PARTFAN_B</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f12cfbc7-bb32-4f67-a1d6-22b4ba2bc371</tstamps>
+    </comp>
+    <comp ref="J105">
+      <value>CANBUS</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>743c9e08-92af-477b-8972-31330258f29c</tstamps>
+    </comp>
+    <comp ref="J106">
+      <value>HEFAN</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>990c4496-0737-4e96-aab2-2f12fa71ab23</tstamps>
+    </comp>
+    <comp ref="J107">
+      <value>HEATER</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e302f379-e900-4f36-bc12-1526af41ef92</tstamps>
+    </comp>
+    <comp ref="J108">
+      <value>THERM0</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38301c71-8061-4b2c-878d-1b6f4b434b5a</tstamps>
+    </comp>
+    <comp ref="L101">
+      <value>4.7uH</value>
+      <footprint>Inductor_SMD:L_Taiyo-Yuden_NR-30xx</footprint>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea0ef09-b91c-4bc7-8340-8d961c888804</tstamps>
+    </comp>
+    <comp ref="L102">
+      <value>4.7uH</value>
+      <footprint>Inductor_SMD:L_Taiyo-Yuden_NR-30xx</footprint>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0533bc94-4134-45b4-932e-acb986e1fec0</tstamps>
+    </comp>
+    <comp ref="Q101">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cac9612-680e-411f-a9c7-fc5a53d92746</tstamps>
+    </comp>
+    <comp ref="Q102">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fda5df2-6357-4525-811e-1c1b4547ccf5</tstamps>
+    </comp>
+    <comp ref="Q103">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60f878c5-857e-485e-9f63-a06be0dbfe7e</tstamps>
+    </comp>
+    <comp ref="Q104">
+      <value>NCE6020AK</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3f27ad0-5fdb-4320-a0d0-7f10d94fae4b</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39126acf-62ac-4d68-8596-ebe9d70ea603</tstamps>
+    </comp>
+    <comp ref="R102">
+      <value>51k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57bc41bc-cbba-4884-8408-bcd3d3630501</tstamps>
+    </comp>
+    <comp ref="R103">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25561f69-9127-4093-b57d-273120427b8e</tstamps>
+    </comp>
+    <comp ref="R104">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d0602e6-e5c3-4320-a5cd-3c60fceff7d7</tstamps>
+    </comp>
+    <comp ref="R105">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a7dbb7a-ce6f-4681-a647-ef9163e352da</tstamps>
+    </comp>
+    <comp ref="R106">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34230e5d-6c3d-46c9-b270-636ec5bd3495</tstamps>
+    </comp>
+    <comp ref="R107">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce0f2d4b-da4f-45f6-96fd-0b48ed89633e</tstamps>
+    </comp>
+    <comp ref="R108">
+      <value>27k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a843f601-53f1-462c-aa4a-b6a329cbf21c</tstamps>
+    </comp>
+    <comp ref="R109">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbe54eca-45b8-4067-ab54-384ed72a3816</tstamps>
+    </comp>
+    <comp ref="R110">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32bdb6e4-15f1-44fd-bc47-f5e3cb8c0c86</tstamps>
+    </comp>
+    <comp ref="R111">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37b3e944-5eb1-4eb3-b0b4-1fb8a9b469a8</tstamps>
+    </comp>
+    <comp ref="R112">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6155908-424b-4a80-b37e-f2c317592615</tstamps>
+    </comp>
+    <comp ref="R113">
+      <value>3.9k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d30198e-3f02-4351-b027-728a6e033c15</tstamps>
+    </comp>
+    <comp ref="R114">
+      <value>3.3k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d933808-9c08-4b9c-bb72-c2f51710cb66</tstamps>
+    </comp>
+    <comp ref="R115">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b29ea632-117f-4770-91fa-351993d52401</tstamps>
+    </comp>
+    <comp ref="R116">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7daf1aad-cd46-4dbe-b4a6-859ff1596d3b</tstamps>
+    </comp>
+    <comp ref="R117">
+      <value>24k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b48592b7-3535-4720-b8c8-4100975d617b</tstamps>
+    </comp>
+    <comp ref="R118">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d87260a-30df-47e0-bdeb-432b616557fc</tstamps>
+    </comp>
+    <comp ref="R119">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6245756c-2f84-40a5-9530-b96f27392263</tstamps>
+    </comp>
+    <comp ref="R120">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a509aee3-2264-463d-9ec0-ec761894a349</tstamps>
+    </comp>
+    <comp ref="R121">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e81c908-1fba-4058-935b-c15dd8f4f623</tstamps>
+    </comp>
+    <comp ref="R122">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f573b2a-fa4b-42f4-aabb-57bee5c838c5</tstamps>
+    </comp>
+    <comp ref="R123">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>931c1e0f-6b69-4556-be8d-8f82a4f359de</tstamps>
+    </comp>
+    <comp ref="SW101">
+      <value>XEND</value>
+      <footprint>matei:D3SH-boss</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b61faa8-2111-412d-90ac-8a3edd5f18fb</tstamps>
+    </comp>
+    <comp ref="U101">
+      <value>74LS125</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS125</datasheet>
+      <libsource lib="74xx" part="74LS125" description="Quad buffer 3-State outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>773ab350-7975-45ab-9102-137af4fcf864 d5bf3102-c165-4433-b807-11676488cf30 e3377376-425e-41bb-950f-bc3c0c3d3540 eda9c055-7429-4d4b-957d-a07482ffa6cf 37891e7b-c21f-40b6-a336-58e08f03e97b</tstamps>
+    </comp>
+    <comp ref="U102">
+      <value>RY8310</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <libsource lib="matei" part="RY8310" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efc9c195-a4e4-48ba-be7e-f26f80be0b4c</tstamps>
+    </comp>
+    <comp ref="U104">
+      <value>RY8310</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <libsource lib="matei" part="RY8310" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: bowden-toolhead.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8e8c983-fcce-41f3-8511-18264b7d8bbc</tstamps>
+    </comp>
+    <comp ref="C201">
+      <value>20pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>e89e77b0-24d1-4134-926f-e44fa12ba1d9</tstamps>
+    </comp>
+    <comp ref="C202">
+      <value>20pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>26c91ef6-25a4-46e6-a9e2-202a2610a770</tstamps>
+    </comp>
+    <comp ref="J201">
+      <value>STM32-SWD-POGO</value>
+      <footprint>matei:SWD_pogo_landing</footprint>
+      <libsource lib="matei" part="STM32-SWD-POGO" description="Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>61f99c03-c859-4546-a9d9-4f290470c038</tstamps>
+    </comp>
+    <comp ref="JP201">
+      <value>node term</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>d447050d-f435-432e-ba82-8b7f13125711</tstamps>
+    </comp>
+    <comp ref="R201">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>71720aac-00d7-4517-9619-d614e21ffee4</tstamps>
+    </comp>
+    <comp ref="R202">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>12a288d8-039f-462d-8ea2-319f127a9311</tstamps>
+    </comp>
+    <comp ref="R203">
+      <value>27R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>f23900fb-da78-4646-9016-c440cf0bb639</tstamps>
+    </comp>
+    <comp ref="R204">
+      <value>27R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>16bb77d6-204e-4541-aec7-e359d12c3a92</tstamps>
+    </comp>
+    <comp ref="R205">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>ed19a9fd-4c9c-44d6-a60e-143fba70fe9c</tstamps>
+    </comp>
+    <comp ref="SW201">
+      <value>RESET</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm</footprint>
+      <libsource lib="Switch" part="SW_Push_Dual" description="Push button switch, generic, symbol, four pins"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>0590da7f-014b-4e2c-81ea-375d2a068820</tstamps>
+    </comp>
+    <comp ref="SW202">
+      <value>BOOTSEL</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm</footprint>
+      <libsource lib="Switch" part="SW_Push_Dual" description="Push button switch, generic, symbol, four pins"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>49a52ce0-d740-4429-8497-074e6db0ba5b</tstamps>
+    </comp>
+    <comp ref="U201">
+      <value>ADXL345</value>
+      <footprint>Package_LGA:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/609/ADXL345-1517570.pdf</datasheet>
+      <libsource lib="matei" part="ADXL345" description="3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>8202db5e-379f-43c5-9ee0-434518c0fdf2</tstamps>
+    </comp>
+    <comp ref="U202">
+      <value>W25Q32JVSS</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</datasheet>
+      <libsource lib="Memory_Flash" part="W25Q32JVSS" description="32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>9a6e1920-17d9-4d7d-b83b-9260c2a415c3</tstamps>
+    </comp>
+    <comp ref="U203">
+      <value>MAX3051</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-8</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf</datasheet>
+      <libsource lib="Interface_UART" part="MAX3051" description="High-Speed CAN Transceiver, 1Mbps, 3.3V supply"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>71b9e3ba-2423-4e61-b306-e7982dc26043</tstamps>
+    </comp>
+    <comp ref="U204">
+      <value>RP2040</value>
+      <footprint>matei:QFN40P700X700X90-57N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="PARTREV">1.6.1</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="RP2040" part="RP2040" description=""/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.9 mm"/>
+      <property name="MANUFACTURER" value="Raspberry Pi"/>
+      <property name="PARTREV" value="1.6.1"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>1e1bdb91-b334-4d84-b65b-ea67a290ac19</tstamps>
+    </comp>
+    <comp ref="Y201">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Sheetname" value="DIGITAL"/>
+      <property name="Sheetfile" value="File: bowden_toolhead_digital.kicad_sch"/>
+      <sheetpath names="/DIGITAL/" tstamps="/673dea40-176f-436e-ae9c-def48454666b/"/>
+      <tstamps>6919b3b6-3535-4dd0-9374-7ba8dc930c01</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74LS125">
+      <description>Quad buffer 3-State outputs</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS125</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS125</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS125</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="tri_state"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="tri_state"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="tri_state"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="tri_state"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAV99">
+      <description>BAV99 High-speed switching diodes, SOT-23</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAV99</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="MAX3051">
+      <description>High-Speed CAN Transceiver, 1Mbps, 3.3V supply</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>SOIC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX3051</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="RXD" type="output"/>
+        <pin num="5" name="SHDN" type="input"/>
+        <pin num="6" name="CANL" type="bidirectional"/>
+        <pin num="7" name="CANH" type="bidirectional"/>
+        <pin num="8" name="RS" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q32JVSS">
+      <description>32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q32JVSS</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="RP2040" part="RP2040">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">QFN40P700X700X90-57N</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+        <field name="PARTREV">1.6.1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="power_in"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="passive"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="output"/>
+        <pin num="22" name="IOVDD" type="power_in"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="input"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="power_in"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26/ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27/ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28/ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29/ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="power_in"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_VIN" type="input"/>
+        <pin num="45" name="VREG_VOUT" type="output"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="power_in"/>
+        <pin num="50" name="DVDD" type="power_in"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="bidirectional"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_CSN" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_Dual">
+      <description>Push button switch, generic, symbol, four pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_Dual</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="matei" part="ADXL345">
+      <description>3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14</description>
+      <docs>https://www.mouser.com/datasheet/2/609/ADXL345-1517570.pdf</docs>
+      <footprints>
+        <fp>*LGA*3x5mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADXL345</field>
+        <field name="Footprint">Package_LGA:LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/609/ADXL345-1517570.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd_I/O" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="RES" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="Vs" type="power_in"/>
+        <pin num="7" name="~{CS}" type="input"/>
+        <pin num="8" name="INT1" type="output"/>
+        <pin num="9" name="INT2" type="output"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="RES" type="passive"/>
+        <pin num="12" name="SDO/ADDR" type="bidirectional"/>
+        <pin num="13" name="SDA/SDI/SDIO" type="bidirectional"/>
+        <pin num="14" name="SCL/SCLK" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="matei" part="RY8310">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RY8310</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BST" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="input"/>
+        <pin num="6" name="SW" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="matei" part="STM32-SWD-POGO">
+      <description>Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">STM32-SWD-POGO</field>
+        <field name="Footprint">matei:SWD_pogo_landing</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_UART.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="RP2040">
+      <uri>/Users/mateijordache/Documents/KiCad/6.0/symbols/RP2040.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="matei">
+      <uri>/Users/mateijordache/Documents/KiCad/6.0/symbols/matei.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C108" pin="1" pintype="passive"/>
+      <node ref="C110" pin="2" pintype="passive"/>
+      <node ref="C113" pin="2" pintype="passive"/>
+      <node ref="C115" pin="2" pintype="passive"/>
+      <node ref="C117" pin="2" pintype="passive"/>
+      <node ref="C119" pin="2" pintype="passive"/>
+      <node ref="C121" pin="2" pintype="passive"/>
+      <node ref="D105" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J201" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L102" pin="2" pintype="passive"/>
+      <node ref="R113" pin="2" pintype="passive"/>
+      <node ref="R114" pin="1" pintype="passive"/>
+      <node ref="R116" pin="1" pintype="passive"/>
+      <node ref="R119" pin="1" pintype="passive"/>
+      <node ref="R202" pin="2" pintype="passive"/>
+      <node ref="U201" pin="1" pinfunction="Vdd_I/O" pintype="power_in"/>
+      <node ref="U201" pin="6" pinfunction="Vs" pintype="power_in"/>
+      <node ref="U202" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U203" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U204" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U204" pin="10" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U204" pin="22" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U204" pin="33" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U204" pin="42" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U204" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U204" pin="44" pinfunction="VREG_VIN" pintype="input"/>
+      <node ref="U204" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U204" pin="49" pinfunction="IOVDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C104" pin="1" pintype="passive"/>
+      <node ref="C116" pin="1" pintype="passive"/>
+      <node ref="C118" pin="1" pintype="passive"/>
+      <node ref="C120" pin="1" pintype="passive"/>
+      <node ref="L101" pin="2" pintype="passive"/>
+      <node ref="R102" pin="2" pintype="passive"/>
+      <node ref="R115" pin="1" pintype="passive"/>
+      <node ref="R121" pin="1" pintype="passive"/>
+      <node ref="R123" pin="1" pintype="passive"/>
+      <node ref="U101" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="ADXL_INT1">
+      <node ref="U201" pin="8" pinfunction="INT1" pintype="output"/>
+    </net>
+    <net code="4" name="CAN_HI">
+      <node ref="J105" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP201" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U203" pin="7" pinfunction="CANH" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CAN_LO">
+      <node ref="J105" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R201" pin="1" pintype="passive"/>
+      <node ref="U203" pin="6" pinfunction="CANL" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CAN_RX">
+      <node ref="U203" pin="4" pinfunction="RXD" pintype="output"/>
+      <node ref="U204" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="CAN_TX">
+      <node ref="U203" pin="1" pinfunction="TXD" pintype="input"/>
+      <node ref="U204" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C101" pin="2" pintype="passive"/>
+      <node ref="C102" pin="2" pintype="passive"/>
+      <node ref="C104" pin="2" pintype="passive"/>
+      <node ref="C105" pin="2" pintype="passive"/>
+      <node ref="C106" pin="2" pintype="passive"/>
+      <node ref="C108" pin="2" pintype="passive"/>
+      <node ref="C109" pin="2" pintype="passive"/>
+      <node ref="C110" pin="1" pintype="passive"/>
+      <node ref="C111" pin="2" pintype="passive"/>
+      <node ref="C112" pin="2" pintype="passive"/>
+      <node ref="C113" pin="1" pintype="passive"/>
+      <node ref="C114" pin="2" pintype="passive"/>
+      <node ref="C115" pin="1" pintype="passive"/>
+      <node ref="C116" pin="2" pintype="passive"/>
+      <node ref="C117" pin="1" pintype="passive"/>
+      <node ref="C118" pin="2" pintype="passive"/>
+      <node ref="C119" pin="1" pintype="passive"/>
+      <node ref="C120" pin="2" pintype="passive"/>
+      <node ref="C121" pin="1" pintype="passive"/>
+      <node ref="C122" pin="1" pintype="passive"/>
+      <node ref="C201" pin="1" pintype="passive"/>
+      <node ref="C202" pin="2" pintype="passive"/>
+      <node ref="D101" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D102" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D103" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D105" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D107" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="H101" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J101" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J101" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J101" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J101" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J101" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J102" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J103" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J104" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J106" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J107" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J108" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J201" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="Q101" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q102" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q103" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q104" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R104" pin="2" pintype="passive"/>
+      <node ref="R106" pin="2" pintype="passive"/>
+      <node ref="R107" pin="2" pintype="passive"/>
+      <node ref="R110" pin="2" pintype="passive"/>
+      <node ref="R112" pin="2" pintype="passive"/>
+      <node ref="R205" pin="1" pintype="passive"/>
+      <node ref="SW101" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW201" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW201" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U101" pin="1" pintype="input"/>
+      <node ref="U101" pin="10" pintype="input"/>
+      <node ref="U101" pin="13" pintype="input"/>
+      <node ref="U101" pin="4" pintype="input"/>
+      <node ref="U101" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U102" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U104" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U201" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U201" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U201" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U202" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U203" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U203" pin="5" pinfunction="SHDN" pintype="input"/>
+      <node ref="U203" pin="8" pinfunction="RS" pintype="input"/>
+      <node ref="U204" pin="19" pinfunction="TESTEN" pintype="passive"/>
+      <node ref="U204" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y201" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y201" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="9" name="HEATER">
+      <node ref="J107" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q104" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="10" name="HEATER_MCU">
+      <node ref="U101" pin="12" pintype="input"/>
+      <node ref="U204" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="HEFAN">
+      <node ref="J106" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q101" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="12" name="HEFAN_MCU">
+      <node ref="U101" pin="2" pintype="input"/>
+      <node ref="U204" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="I2C1_SCLK">
+      <node ref="U204" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="I2C1_SDA">
+      <node ref="U204" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="LED">
+      <node ref="D104" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D106" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q103" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="16" name="LED_MCU">
+      <node ref="U101" pin="9" pintype="input"/>
+      <node ref="U204" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(C103-Pad1)">
+      <node ref="C103" pin="1" pintype="passive"/>
+      <node ref="U102" pin="1" pinfunction="BST" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C103-Pad2)">
+      <node ref="C103" pin="2" pintype="passive"/>
+      <node ref="L101" pin="1" pintype="passive"/>
+      <node ref="U102" pin="6" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C107-Pad1)">
+      <node ref="C107" pin="1" pintype="passive"/>
+      <node ref="U104" pin="1" pinfunction="BST" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C107-Pad2)">
+      <node ref="C107" pin="2" pintype="passive"/>
+      <node ref="L102" pin="1" pintype="passive"/>
+      <node ref="U104" pin="6" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(D101-Pad2)">
+      <node ref="D101" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R114" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D102-Pad2)">
+      <node ref="D102" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R115" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D103-Pad2)">
+      <node ref="D103" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R117" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D104-Pad2)">
+      <node ref="D104" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R121" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D105-Pad3)">
+      <node ref="D105" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="R120" pin="1" pintype="passive"/>
+      <node ref="R122" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D106-Pad2)">
+      <node ref="D106" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R123" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(JP201-Pad1)">
+      <node ref="JP201" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R201" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(Q101-Pad1)">
+      <node ref="Q101" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R103" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Q102-Pad1)">
+      <node ref="Q102" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R105" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q103-Pad1)">
+      <node ref="Q103" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R109" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q104-Pad1)">
+      <node ref="Q104" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R111" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(R101-Pad1)">
+      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R102" pin="1" pintype="passive"/>
+      <node ref="U102" pin="3" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(R103-Pad1)">
+      <node ref="R103" pin="1" pintype="passive"/>
+      <node ref="R104" pin="1" pintype="passive"/>
+      <node ref="U101" pin="3" pintype="tri_state"/>
+    </net>
+    <net code="34" name="Net-(R105-Pad1)">
+      <node ref="R105" pin="1" pintype="passive"/>
+      <node ref="R106" pin="1" pintype="passive"/>
+      <node ref="U101" pin="6" pintype="tri_state"/>
+    </net>
+    <net code="35" name="Net-(R107-Pad1)">
+      <node ref="R107" pin="1" pintype="passive"/>
+      <node ref="R108" pin="1" pintype="passive"/>
+      <node ref="U104" pin="3" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(R108-Pad2)">
+      <node ref="R108" pin="2" pintype="passive"/>
+      <node ref="R113" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R109-Pad1)">
+      <node ref="R109" pin="1" pintype="passive"/>
+      <node ref="R110" pin="1" pintype="passive"/>
+      <node ref="U101" pin="8" pintype="tri_state"/>
+    </net>
+    <net code="38" name="Net-(R111-Pad1)">
+      <node ref="R111" pin="1" pintype="passive"/>
+      <node ref="R112" pin="1" pintype="passive"/>
+      <node ref="U101" pin="11" pintype="tri_state"/>
+    </net>
+    <net code="39" name="Net-(R118-Pad2)">
+      <node ref="R118" pin="2" pintype="passive"/>
+      <node ref="SW101" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(R203-Pad1)">
+      <node ref="R203" pin="1" pintype="passive"/>
+      <node ref="U204" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(R204-Pad1)">
+      <node ref="R204" pin="1" pintype="passive"/>
+      <node ref="U204" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(R205-Pad2)">
+      <node ref="R205" pin="2" pintype="passive"/>
+      <node ref="SW202" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW202" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(U204-Pad23)">
+      <node ref="U204" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U204" pin="45" pinfunction="VREG_VOUT" pintype="output"/>
+      <node ref="U204" pin="50" pinfunction="DVDD" pintype="power_in"/>
+    </net>
+    <net code="44" name="PARTFAN">
+      <node ref="J103" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J104" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q102" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="45" name="PARTFAN_MCU">
+      <node ref="U101" pin="5" pintype="input"/>
+      <node ref="U204" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="QSPI_CS">
+      <node ref="U202" pin="1" pinfunction="~{CS}" pintype="input"/>
+      <node ref="U204" pin="56" pinfunction="QSPI_CSN" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="QSPI_D0">
+      <node ref="U202" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+      <node ref="U204" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="QSPI_D1">
+      <node ref="U202" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+      <node ref="U204" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="QSPI_D2">
+      <node ref="U202" pin="3" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U204" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="QSPI_D3">
+      <node ref="U202" pin="7" pinfunction="IO3" pintype="bidirectional"/>
+      <node ref="U204" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="QSPI_SCLK">
+      <node ref="SW202" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW202" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U202" pin="6" pinfunction="CLK" pintype="input"/>
+      <node ref="U204" pin="52" pinfunction="QSPI_SCLK" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="RUN">
+      <node ref="J201" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R202" pin="1" pintype="passive"/>
+      <node ref="SW201" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW201" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U204" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="53" name="SPI1_CS_ADXL">
+      <node ref="U201" pin="7" pinfunction="~{CS}" pintype="input"/>
+      <node ref="U204" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="SPI1_RX">
+      <node ref="U201" pin="12" pinfunction="SDO/ADDR" pintype="bidirectional"/>
+      <node ref="U204" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="SPI1_SCK">
+      <node ref="U201" pin="14" pinfunction="SCL/SCLK" pintype="input"/>
+      <node ref="U204" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="SPI1_TX">
+      <node ref="U201" pin="13" pinfunction="SDA/SDI/SDIO" pintype="bidirectional"/>
+      <node ref="U204" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="SWCLK">
+      <node ref="J201" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="58" name="SWCWLK">
+      <node ref="U204" pin="24" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="59" name="SWD">
+      <node ref="J201" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U204" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="THERM0">
+      <node ref="J108" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R119" pin="2" pintype="passive"/>
+      <node ref="R120" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="THERM0_MCU">
+      <node ref="C122" pin="2" pintype="passive"/>
+      <node ref="D107" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="R122" pin="1" pintype="passive"/>
+      <node ref="U204" pin="38" pinfunction="GPIO26/ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="UART0_RX">
+      <node ref="U204" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="UART0_TX">
+      <node ref="U204" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="USB_M">
+      <node ref="J101" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J101" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R203" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="USB_P">
+      <node ref="J101" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J101" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R204" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="VBUS">
+      <node ref="C101" pin="1" pintype="passive"/>
+      <node ref="C102" pin="1" pintype="passive"/>
+      <node ref="C105" pin="1" pintype="passive"/>
+      <node ref="C106" pin="1" pintype="passive"/>
+      <node ref="C109" pin="1" pintype="passive"/>
+      <node ref="C111" pin="1" pintype="passive"/>
+      <node ref="C114" pin="1" pintype="passive"/>
+      <node ref="J102" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R117" pin="1" pintype="passive"/>
+      <node ref="U102" pin="4" pinfunction="EN" pintype="input"/>
+      <node ref="U102" pin="5" pinfunction="VIN" pintype="input"/>
+      <node ref="U104" pin="4" pinfunction="EN" pintype="input"/>
+      <node ref="U104" pin="5" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="67" name="XEND">
+      <node ref="C112" pin="1" pintype="passive"/>
+      <node ref="R116" pin="2" pintype="passive"/>
+      <node ref="R118" pin="1" pintype="passive"/>
+      <node ref="U204" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="XIN">
+      <node ref="C201" pin="2" pintype="passive"/>
+      <node ref="U204" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="Y201" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="XOUT">
+      <node ref="C202" pin="1" pintype="passive"/>
+      <node ref="U204" pin="21" pinfunction="XOUT" pintype="output"/>
+      <node ref="Y201" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="70" name="unconnected-(J101-PadA4)">
+      <node ref="J101" pin="A4" pinfunction="VBUS" pintype="passive+no_connect"/>
+      <node ref="J101" pin="A9" pinfunction="VBUS" pintype="passive+no_connect"/>
+      <node ref="J101" pin="B4" pinfunction="VBUS" pintype="passive+no_connect"/>
+      <node ref="J101" pin="B9" pinfunction="VBUS" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(J101-PadA5)">
+      <node ref="J101" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J101-PadA8)">
+      <node ref="J101" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(J101-PadB5)">
+      <node ref="J101" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(J101-PadB8)">
+      <node ref="J101" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(J201-Pad4)">
+      <node ref="J201" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U201-Pad3)">
+      <node ref="U201" pin="3" pinfunction="RES" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U201-Pad9)">
+      <node ref="U201" pin="9" pinfunction="INT2" pintype="output+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U201-Pad10)">
+      <node ref="U201" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U201-Pad11)">
+      <node ref="U201" pin="11" pinfunction="RES" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U204-Pad8)">
+      <node ref="U204" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="unconnected-(U204-Pad9)">
+      <node ref="U204" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(U204-Pad15)">
+      <node ref="U204" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(U204-Pad16)">
+      <node ref="U204" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U204-Pad18)">
+      <node ref="U204" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(U204-Pad28)">
+      <node ref="U204" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(U204-Pad30)">
+      <node ref="U204" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="unconnected-(U204-Pad32)">
+      <node ref="U204" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="unconnected-(U204-Pad35)">
+      <node ref="U204" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="unconnected-(U204-Pad36)">
+      <node ref="U204" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="unconnected-(U204-Pad37)">
+      <node ref="U204" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(U204-Pad39)">
+      <node ref="U204" pin="39" pinfunction="GPIO27/ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(U204-Pad40)">
+      <node ref="U204" pin="40" pinfunction="GPIO28/ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(U204-Pad41)">
+      <node ref="U204" pin="41" pinfunction="GPIO29/ADC3" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
